@@ -3,9 +3,9 @@ export default function AboutPage() {
     <div className="bg-white py-16">
       <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div>
-          <h1 className="text-4xl font-bold text-blue-800 mb-4">About AfyaCare Clinic</h1>
+          <h1 className="text-4xl font-bold text-blue-800 mb-4"> Membley physiotherapy and Orthopedic Clinic</h1>
           <p className="text-lg text-gray-700 mb-4">
-            AfyaCare Clinic is a leading physiotherapy and orthopaedic center located in the heart of Membley. Our mission is to provide the highest quality care to our patients, helping them to recover from injuries, manage chronic conditions, and improve their overall quality of life.
+            Membley physiotherapy and Orthopedic Clinic is a leading physiotherapy and orthopaedic center located along Eastern bypass at Highcure Medical Center. Our mission is to provide the highest quality care to our patients, helping them to recover from injuries, manage chronic conditions, and improve their overall quality of life.
           </p>
           <p className="text-lg text-gray-700">
             Our team of experienced and dedicated professionals uses the latest techniques and technologies to deliver personalized treatment plans tailored to each individual\'s needs. We are committed to creating a welcoming and supportive environment where our patients can feel comfortable and confident in their journey to recovery.
